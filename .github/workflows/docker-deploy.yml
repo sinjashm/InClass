@@ -23,7 +23,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: sinjashm/InClass:latest
+          tags: sinjashm/inclass:latest
 
   deploy:
     runs-on: ubuntu-latest
